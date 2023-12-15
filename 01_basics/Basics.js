@@ -22,5 +22,9 @@ console.table([Chaddi,Underwear])
 // symbol
 
 
-console.log(typeof "Hello")
+let A= 3
+let B= Boolean(A)
+console.log(B+45);
 
+
+// NaN - Suscpisios conversion
